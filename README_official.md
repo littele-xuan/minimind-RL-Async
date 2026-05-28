@@ -27,7 +27,7 @@
 
 <div align="center">
 
-中文 | [English](./README_en.md)
+中文 | [English](./README_official_en.md)
 
 </div>
 
