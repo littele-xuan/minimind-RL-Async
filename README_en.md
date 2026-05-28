@@ -2,7 +2,7 @@
 
 <div align="center">
 
-English | [中文](./README_agentic_async_rl.md)
+English | [中文](./README.md)
 
 </div>
 
